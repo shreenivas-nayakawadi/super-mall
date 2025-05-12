@@ -14,12 +14,10 @@ const LoginForm = () => {
       const handleSubmit = async (e) => {
             e.preventDefault();
             try {
-                  setIsSubmitting(true);
                   setError("");
+                  setIsSubmitting(true);
                   const user = await login(email, password);
-
-                  // Navigate immediately without waiting
-                  navigate(`/${user.role}/dashboard`, { replace: true });
+                  navigate(`/${user.role}/dashboard`);
             } catch (err) {
                   setError(err.message);
                   setIsSubmitting(false);

@@ -1,0 +1,40 @@
+<mxfile host="65bd71144e">
+    <diagram name="Page-1" id="1H7XU8X1-NTrVGJlUD2c">
+        <mxGraphModel dx="1517" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="vajGlNcrz_hGpff92t57-30" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vajGlNcrz_hGpff92t57-2" target="vajGlNcrz_hGpff92t57-3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="vajGlNcrz_hGpff92t57-2" value="MOBILITY CONTROL" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="240" width="120" height="43" as="geometry"/>
+                </mxCell>
+                <mxCell id="vajGlNcrz_hGpff92t57-31" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vajGlNcrz_hGpff92t57-3" target="vajGlNcrz_hGpff92t57-9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="vajGlNcrz_hGpff92t57-3" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;ARUDINO CONTROLLER&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="320" width="120" height="45" as="geometry"/>
+                </mxCell>
+                <mxCell id="vajGlNcrz_hGpff92t57-14" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vajGlNcrz_hGpff92t57-4" target="vajGlNcrz_hGpff92t57-2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="vajGlNcrz_hGpff92t57-4" value="VOICE RECOGNITION" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="160" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="vajGlNcrz_hGpff92t57-27" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="vajGlNcrz_hGpff92t57-5" target="vajGlNcrz_hGpff92t57-4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="vajGlNcrz_hGpff92t57-5" value="USER INTERFACE" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="80" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="vajGlNcrz_hGpff92t57-9" value="WHEEL MOTORS" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="400" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="vajGlNcrz_hGpff92t57-23" value="&lt;b&gt;VOICE CONTROLLED WHEELCHAIR&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="20" width="330" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
