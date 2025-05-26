@@ -35,7 +35,7 @@ const RegisterForm = () => {
                                           Create Account
                                     </h1>
                                     <p className="text-gray-500 mt-2">
-                                          Join our cruise experience
+                                          Join our super mall experience
                                     </p>
                               </div>
 

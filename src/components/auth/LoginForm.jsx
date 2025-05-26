@@ -34,7 +34,7 @@ const LoginForm = () => {
                                           Welcome Back
                                     </h1>
                                     <p className="text-gray-500 mt-2">
-                                          Sign in to your cruise account
+                                          Sign in to your super mall account
                                     </p>
                               </div>
 

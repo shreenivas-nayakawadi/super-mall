@@ -1,5 +1,7 @@
 # Super Mall - Shopping Mall Management System
 
+Live at: https://super-mall-78902.web.app/
+
 A comprehensive web application for managing a shopping mall, built with React and Firebase. The system provides separate interfaces for administrators and users, offering a complete solution for mall management and shopping experience.
 
 ## Features
